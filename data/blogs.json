@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl velit, lacinia vel odio a, condimentum aliquet dui. Pellentesque ac varius ipsum. Ut iaculis est in placerat pellentesque. Praesent in quam ipsum. Donec vitae iaculis metus, non dignissim nisi. Sed vehicula quis nulla quis viverra. Nunc iaculis mi ac justo aliquam, sit amet congue orci tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisis, quam in tristique gravida, arcu purus viverra nulla, sit amet vestibulum lacus magna ac quam. Mauris urna diam, vulputate a auctor eget, interdum non neque. Nullam luctus ornare lacinia. Maecenas vitae felis semper erat efficitur fermentum id euismod nisl.",
+      "author": "Muhammad Kuswari",
+      "id": 1
+    },
+    {
+      "title": "My Second Post ",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl velit, lacinia vel odio a, condimentum aliquet dui. Pellentesque ac varius ipsum. Ut iaculis est in placerat pellentesque. Praesent in quam ipsum. Donec vitae iaculis metus, non dignissim nisi. Sed vehicula quis nulla quis viverra. Nunc iaculis mi ac justo aliquam, sit amet congue orci tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisis, quam in tristique gravida, arcu purus viverra nulla, sit amet vestibulum lacus magna ac quam. Mauris urna diam, vulputate a auctor eget, interdum non neque. Nullam luctus ornare lacinia. Maecenas vitae felis semper erat efficitur fermentum id euismod nisl.",
+      "author": "Nana Apriliana",
+      "id": 2
+    },
+    {
+      "title": "My Third Post ",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl velit, lacinia vel odio a, condimentum aliquet dui. Pellentesque ac varius ipsum. Ut iaculis est in placerat pellentesque. Praesent in quam ipsum. Donec vitae iaculis metus, non dignissim nisi. Sed vehicula quis nulla quis viverra. Nunc iaculis mi ac justo aliquam, sit amet congue orci tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisis, quam in tristique gravida, arcu purus viverra nulla, sit amet vestibulum lacus magna ac quam. Mauris urna diam, vulputate a auctor eget, interdum non neque. Nullam luctus ornare lacinia. Maecenas vitae felis semper erat efficitur fermentum id euismod nisl.",
+      "author": "Muhammad Kuswari",
+      "id": 3
+    }
+  ]
+}
